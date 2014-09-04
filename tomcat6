@@ -1,8 +1,0 @@
-/var/log/tomcat6/catalina.out {
-    copytruncate
-    weekly
-    rotate 52
-    compress
-    missingok
-    create 0644 tomcat tomcat
-}
