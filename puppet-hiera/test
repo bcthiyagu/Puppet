@@ -1,1 +1,22 @@
-Hi this file is yamal contains user.eyamal backup
+
+This file is contains user.eyamal backup
+
+---
+#SYS Admin accounts
+
+techm_linux:
+  thiyagu:
+    comment: 'Thiyagarajan Chandran'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== thiyagu']
+  kannan:
+    comment: 'RamKannan'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== kannan']
+  ramesh:
+    comment: 'Ramesh Sundaram'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== ramesh']
+  karthik:
+    comment: 'Karthik P'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== karthik']
+  anand:
+    comment: 'Anand B'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcsXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== anand']
