@@ -18,4 +18,6 @@ techm_linux:
   anand:
     comment: 'Anand B'
     sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcsXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== anand']
-						  
+  jansten:
+    comment: 'Jan Stenvall'
+    sshkeys: [ 'ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7CZRH2SnAQ0o/df/f9W0gtGhXwFT7DZrugW3+e4hOMzYsgUzGNC4HpaJYEymalOYraYnFOzcsXhH4q3r7q4EljvZHJ0iw+oNMfmcOzspiG== jansten']
